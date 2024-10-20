@@ -9,3 +9,5 @@ Image recognition and IR based counting - Use Machine learning capabilities to t
 
 Detecting freshness of fresh produce- Predicting shelf life of fresh fruits and
 vegetables, Assess the freshness of fruits and vegetables by analyzing various visual cues and patterns
+
+Dataset: https://drive.google.com/drive/folders/1_l2GyucuoxFA65sWA6ZXCH1E8wePY5qv?usp=drive_link
