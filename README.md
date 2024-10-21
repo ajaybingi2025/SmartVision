@@ -12,4 +12,7 @@ The project aims to implement image recognition for product classification using
 Detecting freshness of fresh produce- Predicting shelf life of fresh fruits and
 vegetables, Assess the freshness of fruits and vegetables by analyzing various visual cues and patterns
 
-Dataset: https://drive.google.com/drive/folders/1_l2GyucuoxFA65sWA6ZXCH1E8wePY5qv?usp=drive_link
+
+The below google drive link containes the datasets for the project which is created by us in terms of this project, This dataset contains two zip files:
+1) finalfreshness.zip - Collected the different images of the food products - Apple, Banana, Tomato and Bread
+Dataset: https://drive.google.com/drive/folders/1_l2GyucuoxFA65sWA6ZXCH1Es8wePY5qv?usp=drive_link
